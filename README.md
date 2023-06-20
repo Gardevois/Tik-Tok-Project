@@ -10,7 +10,7 @@ https://ticoteco-c81c1.web.app/
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531992200131)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOMEDEEXEMPLO)](https://github.com/Gardevois/Tik-Tok-Project)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardevois)](https://github.com/Gardevois/Tik-Tok-Project)
 
 Autor:
 
