@@ -1,5 +1,5 @@
 
-# Tik Tok Clone - Projeto EBAC
+# Tik Tok Clone
 
 Links úteis:
 
