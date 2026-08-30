@@ -5,7 +5,7 @@ import MusicNoteIcon from '@mui/icons-material/MusicNote';
 function VideoFooter({name, description, music}) {
   return (
     <div className="videoFooter">
-      <div ckass className="videoFooter__text">
+      <div className="videoFooter__text">
         <h3>@{ name }</h3>
         <p>{ description }</p>
         <div className="videoFooter__music">
